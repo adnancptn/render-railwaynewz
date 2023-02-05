@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "railway-376208",
+  "private_key_id": "55085271e9fa05671d44a4505330fdbc3f7011e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCka2ZgdddvM04j\nKL4H1D0n6s017KqBWpqydBzB70K1lTE4GPGUcYZYUsLAnc3Lu/wSvYkHpBIjw3JD\nHamdOVzhaw3hwvkSTqiNUjUmqr6PvBoXdZJii52WEfYbwKWzz3H/mOLCvbWXmBEs\ndHKDmlmjPnb4NTm2FPkgu9NI9B8i+nU+CKT9MrikZrdeVGmm46l6aBmWDzveVDRw\n0UL/I6Q7e0XAYoPBljxp0bhaM8a/hKaUxlBnoN6SVJ9MV3xBTzKihjRHRlsgyLEp\nG4mSQHh824k3eLOc2X0Q/2ks8D6dLmm7TSRw53ZSYKvtDsipLRA6MLFrIB9aqFAE\nv3OECMKnAgMBAAECggEAGCfxTBW0F5HNlovLU4IilAVCrfv91vBVTweRHAsHXX80\nUn4TrA/7wWkzVLI6hIazU5uGENnRknCKDoNCoqdFVpbwXK1VA5QL3mtoBKzMP3jO\nyoiK/7BscBpmcpBcp+y/3mH7Wsodbk64ozPeiSg5qCqqtu+28WHmciE2Ov8mvfAa\n0z1H8QHFBPwpyLnVzXLe4WN6u67NMzhOHLmdAyhXnSlQHdpyADGTtKw8/3EiYne/\nyK9T6UZDftT/yq/eIamqKaH1lLJYWX1xQduhnh2CoO5VZynQdvSXdAg0YxdlXm9v\n4xX6zTRMqA0e6uqLEJ4mXXU2JVOnf3GmMFrrs1QMlQKBgQDQ3if3XZff+bpYee+6\nCWEPhdY2WOJYhfPGquFkgnRtvg4hxmnwOUgfCP7tWY2LindgSHTsG0MTdAIZD2jl\nIs4mtxsS9eOGQJ4Xl+f3cTkUGjofc5oB/Xk+C9gacxkHs5II5SU4XF9MYoSsq/mo\nqFhF9Tw5G06kCTkrp+WDmju6RQKBgQDJhZAc0an5XOLUGAYFBVSmJvh8ih6MDp9F\n+9088jFaQ35cq52EZnvEwTEwLWgB3jnea+2DLV+sij37Z7vn1rWWrE8q3z8z55Od\nZrDMuMnLj3+SRYhR90zThctKHk7mdmlO1gbL/0kdXWuII+Pl+KLwRg5qtg2uVly9\nY2b7zf8t+wKBgHdL7BflZTGQOVb/jmT7pmxvTQKNkfptx+bZAxOdT1K/EuNHqIqE\nrSTMxo5ab/YbiEN+HwocKBucTvZxTsBRON30B4q01td/YMyo/tzd1nQc5sXACV7J\nn85IhY3V353+epKKDtA6MlQ2kQDu2RHz1Tdf8p3LcwdOHVFJ/FVGaobhAoGAD3w/\n8rb5xLuqgnnGHKSoOIxOE+PZLRICkzIjcgd6W2FMWHqnhAEMCbZ+vSEAGQSmlbzd\nZ3MZIv0MfkEeY1ZQZd+fxb+Z77cf1LyLYW/hsc65Ethc/U9vi+GAGZXyoir/NJul\nsg9P4v3GwZNgc8+DVctMWE7dBkSEo9j7lOXjcfkCgYBr2u8hNDmTYkW/comomTso\nPFox7NqMSiHl7Ye3y1WiyObgPB5MV04caS+wCp02fb4bcjRya18ICG7Ur3q92Yfy\nTygQbhoh164aT0wdZtSR0v0oohnn6k3IU+UkWNSw1iey/d79VhL3F5FN68TLUVNn\n/uHyKzbKwq3Jw2NnJWsA1A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-0bcilhpqb-opko27xetex3vqdh@railway-376208.iam.gserviceaccount.com",
+  "client_id": "103703071601033699744",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-0bcilhpqb-opko27xetex3vqdh%40railway-376208.iam.gserviceaccount.com"
+}
